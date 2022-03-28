@@ -1,0 +1,74 @@
+{
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "settings": {
+    "language": "EN",
+    "MACVersion": "0.3"
+  },
+  "aboutMe": {
+    "profile": {
+      "name": "mstefa",
+      "surnames": "mstefa",
+      "title": "Full Stack Developer",
+      "description": "As a full-stack developer, I care about producing software that is durable and useful. I develop full-stack web applications, mostly with JavaScript and GoLang. I have experience building projects with TypeScript, GoLang, React, SQL and GraphQl.\nI would like to have the opportunity to work on projects that allow me to learn more about the most recent technologies on back & front-end development, automated testing and CI/CD.",
+      "avatar": {
+        "alt": "profile-image",
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/28/45047bd1-1d5c-4770-8e0f-780994aee7ac_4wvyl.jpg"
+      },
+      "location": {
+        "notes": "Buenos Aires, CABA, Argentina"
+      }
+    },
+    "relevantLinks": [
+      {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/matiasstefanutti/"
+      },
+      {
+        "type": "github",
+        "URL": "https://github.com/mstefa"
+      },
+      {
+        "type": "twitter",
+        "URL": "https://twitter.com/mstefanutti"
+      },
+      {
+        "type": "other",
+        "URL": "https://mstefa.github.io/mstefa/"
+      }
+    ]
+  },
+  "careerPreferences": {
+    "contact": {
+      "publicProfiles": [
+        {
+          "type": "linkedin",
+          "URL": "https://www.linkedin.com/in/matiasstefanutti/"
+        }
+      ]
+    },
+    "preferences": {
+      "preferredCompetences": [
+        {
+          "name": "JavaScript",
+          "type": "technology"
+        },
+        {
+          "name": "React",
+          "type": "technology"
+        },
+        {
+          "name": "Redux",
+          "type": "technology"
+        },
+        {
+          "name": "NodeJS",
+          "type": "technology"
+        },
+        {
+          "name": "TypeScript",
+          "type": "technology"
+        }
+      ]
+    }
+  }
+}
